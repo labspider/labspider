@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="title_labspider.png" alt="Jack Spider" width="80%"/>
+</p>
+
 ## Hi there 👋
 
 <!--
