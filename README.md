@@ -21,6 +21,6 @@
 <img  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdybTN2cWQzMjR6dTludGFibWYzc3g5M2k5OWdrOTIzcXJ5NGJmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F4E4Q13dUuGoRHbbh5/giphy.gif" width="200" />
 </p>
 
-<p align='center'>
-    you wanna know what happens next, me too!  
+<p align="right">
+  <img src="images/tbcs.png" alt="Jack Spider" width="20%"/>
 </p>
