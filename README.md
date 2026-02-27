@@ -5,6 +5,10 @@
 <hr>
 <br>
 
+<p align="left">
+  <img src="images/alright.png" alt="Jack Spider" width="30%"/>
+</p>
+
 <p align="center">
   
   &nbsp;&nbsp;&nbsp;&nbsp;"My name is [shreedharhegade](https://github.com/shreedharhegade) and I’m an Engineering Undergraduate student studying computers and AI and for the past one year I call myself JACK SPIDER.
