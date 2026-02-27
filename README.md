@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/title_labspider.png" alt="Jack Spider" width="80%"/>
+  <img src="images/title.png" alt="Jack Spider" width="78%"/>
 </p>
 
 <hr>
